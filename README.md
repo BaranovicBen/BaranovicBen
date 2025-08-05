@@ -4,6 +4,10 @@
 👨‍💻 I'm working on my own app called HangOut <br/>
 🚌 I'm also developing app to track schoolbuses for [C.S.Lewis schools](https://www.skolylewisa.sk) <br/>
 🛡️ I'm currently studying to become [Burp Suite Certified Practitioner](https://portswigger.net/web-security) <br/>
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamín-baranovič-ctu-fit) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benbaranovic@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baranbendev) 
 
 
 # 💻 Tech Stack:
@@ -15,5 +19,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BaranovicBen&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
