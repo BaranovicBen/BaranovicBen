@@ -2,7 +2,7 @@
 
 🎓 I'm a CyberSecurity student at CTU Prague <br/>
 👨‍💻 I'm working on my own app called HangOut <br/>
-🚌 I'm also developing app to track schoolbuses for [C.S.Lewis schools](https://www.skolylewisa.sk) <br/>
+💻 I code apps for shits and giggles <br/>
 🛡️ I'm currently studying to become [Burp Suite Certified Practitioner](https://portswigger.net/web-security) <br/>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benjamín-baranovič-ctu-fit) 
